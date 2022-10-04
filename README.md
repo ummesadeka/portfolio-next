@@ -1,3 +1,4 @@
 # portfolio-next
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+- Technology: React,Next.js, Styled component
+- live: https://portfolio-next-delta-five.vercel.app/
