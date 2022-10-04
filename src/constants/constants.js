@@ -44,7 +44,7 @@ export const projects = [
 export const TimeLineData = [
   { year: 2019, text: 'Started my journey' },
   { year: 2020, text: 'Worked as a intern developer' },
-  { year: 2021, text: 'Founded BrainZet Technology' },
+  { year: 2021, text: 'Co-founded BrainZet Technology' },
   { year: 2022, text: 'Worked as a Jr developer' },
   { year: 2022, text: 'Started my own platform' },
 ];
